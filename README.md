@@ -1,3 +1,7 @@
+[
+  ![Hack The Box badge](https://www.hackthebox.com/badge/image/1446902)
+](https://app.hackthebox.com/profile/1446902)
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
